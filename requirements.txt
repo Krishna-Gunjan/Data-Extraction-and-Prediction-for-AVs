@@ -1,0 +1,14 @@
+# Python packages (install with: pip install -r requirements.txt)
+
+tensorflow>=2.10.0
+numpy>=1.21.0,<2.0.0
+scikit-learn>=1.0.2,<2.0.0
+pygame>=2.1.0
+redis>=4.5.0
+pillow>=9.0.0
+keras>=3.10.0
+
+
+# CARLA version: 0.9.15  
+# CARLA runtime - download from official releases
+
