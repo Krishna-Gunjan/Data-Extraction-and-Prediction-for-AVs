@@ -1,4 +1,5 @@
-# Data Extraction and Anomaly Detection for Autonomous Vehicles 🚗🛰️
+# Data Extraction and Anomaly Detection for Autonomous Vehicles 
+
 
 **Data-Extraction-Using-Carla** is a small collection of scripts that demonstrates how to extract telemetry from the CARLA simulator, train an autoencoder-based anomaly detector from collected logs, run live anomaly detection and export recorded telemetry for analysis.
 
