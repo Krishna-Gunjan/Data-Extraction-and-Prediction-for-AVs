@@ -1,0 +1,10 @@
+{
+  "metadata": {
+    "vehicle": "Tesla Model 3",
+    "map": "Carla/Maps/Town10HD_Opt",
+    "mode": "Autonomous",
+    "start_time": "2026-02-03T00:52:19.509199"
+  },
+  "anomaly_count": 0,
+  "anomalies": []
+}
